@@ -1,0 +1,6 @@
+paine,46,3
+apa,0,5
+ulei,24,10
+mere,34,5
+lapte,29,12
+ciocolata,4,6

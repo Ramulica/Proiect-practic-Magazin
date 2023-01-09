@@ -1,0 +1,5 @@
+90
+lapte,3
+ulei,2
+mere,20
+ciocolata,5

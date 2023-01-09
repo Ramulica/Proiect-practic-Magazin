@@ -1,0 +1,4 @@
+50
+ciocolata,4
+apa,12
+lapte,2
